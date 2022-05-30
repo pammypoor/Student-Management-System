@@ -1,0 +1,15 @@
+{
+    "name": "pammy/student-management-system",
+    "autoload": {
+        "psr-4": {
+            "Pammy\\StudentManagementSystem\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "pammypoor",
+            "email": "36018468+pammypoor@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
